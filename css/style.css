@@ -114,13 +114,14 @@ a{
 } */
 
 
+nav li a:hover {
+  color: #87005c;
+}
+
 .active {
   text-decoration: underline;
 }
 
-nav li a:hover {
-  color: #87005c;
-}
 
 .gif-container {
   display: block;
